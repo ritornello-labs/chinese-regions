@@ -1,6 +1,7 @@
 # Regions of China: Hanzi, Pinyin, English, and Maps
 
 [![Anki Workbench](https://github.com/elvis-sik/chinese-regions/actions/workflows/anki-workbench.yml/badge.svg)](https://github.com/elvis-sik/chinese-regions/actions/workflows/anki-workbench.yml)
+[![AnkiWeb](https://img.shields.io/badge/AnkiWeb-shared_deck-15a5ef)](https://ankiweb.net/shared/info/159990073)
 ![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -8,9 +9,9 @@ An Anki deck for learning the standard PRC statistical regions of China through 
 
 ![Regions of China card preview](docs/screenshots/readme-preview.png)
 
-Published deck:
+## Download
 
-- [AnkiWeb shared deck](https://ankiweb.net/shared/info/159990073?cb=1774480687353)
+Install the shared deck from [AnkiWeb](https://ankiweb.net/shared/info/159990073).
 
 ## Card previews
 

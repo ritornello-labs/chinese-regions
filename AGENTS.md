@@ -20,6 +20,12 @@ Current focus:
 - Push regularly once a remote exists.
 - Prefer signed commits when local Git signing is already configured.
 
+## AnkiWeb Listings
+
+- Include the GitHub repository URL in the AnkiWeb description body as Markdown where the full visible URL is also the link target: `[https://github.com/elvis-sik/chinese-regions](https://github.com/elvis-sik/chinese-regions)`.
+- Use GitHub-hosted raw image URLs for AnkiWeb screenshots.
+- Keep the README and GitHub About metadata linked to the canonical AnkiWeb listing.
+
 ## Socket Firewall (`sfw`)
 
 Always use [Socket Firewall Free](https://docs.socket.dev/docs/socket-firewall-free) when installing or fetching packages through supported public registries: prefix the command with `sfw` (for example `sfw npm install`, `sfw pnpm install`, `sfw yarn add`, `sfw pip install …`, `sfw uv pip install …`, `sfw cargo fetch`). It filters package-manager network traffic in real time and blocks confirmed malicious dependencies; no API key or configuration is required. Install the CLI globally with `npm i -g sfw` if it is not on your `PATH`. The free tier only supports public registries—not private or custom registries—so those installs cannot go through `sfw`; call that out explicitly if you must bypass it.
@@ -34,4 +40,3 @@ When adding dependencies, scaffolding a new package, or setting up a JS/Python p
 - **uv** — In `pyproject.toml`, `[tool.uv]` with `exclude-newer = "7 days"`. If you use `uv pip`, add the same under `[tool.uv.pip]`. Per-package overrides via `exclude-newer-package`. Optional machine-wide: `~/.config/uv/uv.toml` with `exclude-newer` and `[pip] exclude-newer`.
 
 After changing policy: re-resolve dependencies, commit the lockfile, and in CI prefer frozen installs (`npm ci`, `pnpm install --frozen-lockfile`, `yarn install --immutable`). If a package manager has no equivalent, state that rather than inventing unsupported configuration.
-
