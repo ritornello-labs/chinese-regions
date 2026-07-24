@@ -22,7 +22,7 @@ Current focus:
 
 ## AnkiWeb Listings
 
-- Include the GitHub repository URL in the AnkiWeb description body as Markdown where the full visible URL is also the link target: `[https://github.com/elvis-sik/chinese-regions](https://github.com/elvis-sik/chinese-regions)`.
+- Include the GitHub repository URL in the AnkiWeb description body as Markdown where the full visible URL is also the link target: `[https://github.com/ritornello-labs/chinese-regions](https://github.com/ritornello-labs/chinese-regions)`.
 - Use GitHub-hosted raw image URLs for AnkiWeb screenshots.
 - Keep the README and GitHub About metadata linked to the canonical AnkiWeb listing.
 
