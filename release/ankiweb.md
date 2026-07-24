@@ -4,7 +4,7 @@ tags: china geography maps hanzi pinyin
 support_url: https://github.com/ritornello-labs/chinese-regions
 ---
 
-![Regions of China card preview](https://raw.githubusercontent.com/elvis-sik/chinese-regions/main/docs/screenshots/readme-preview.png)
+![Regions of China card preview](https://raw.githubusercontent.com/ritornello-labs/chinese-regions/main/docs/screenshots/readme-preview.png)
 
 Learn the standard PRC statistical regions of China through Hanzi, pinyin, English names, member provinces, and map-recognition cards.
 
