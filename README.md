@@ -9,8 +9,8 @@ An Anki deck for learning the standard PRC statistical regions of China through 
 
 ![Regions of China card preview](docs/screenshots/readme-preview.png)
 
-[Animated tour](https://ritornello.dev/media/ankiweb/2026-07-30/chinese-regions/preview.gif)
-· [MP4 video](https://ritornello.dev/media/ankiweb/2026-07-30/chinese-regions/demo.mp4)
+[Real Anki review](https://ritornello.dev/media/ankiweb/2026-07-31/chinese-regions/preview.gif)
+· [MP4 video](https://ritornello.dev/media/ankiweb/2026-07-31/chinese-regions/demo.mp4)
 
 ## Download
 
