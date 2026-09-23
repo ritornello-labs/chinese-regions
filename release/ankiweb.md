@@ -8,11 +8,11 @@ Learn the standard PRC statistical regions of China through Hanzi, pinyin, Engli
 
 ## See it in Anki
 
-![Recall a region from Hanzi](https://ritornello.dev/media/ankiweb/2026-08-05-v3/chinese-regions/gallery-01.png)
+![Recall the pinyin of East China from its Hanzi](https://ritornello.dev/media/ankiweb/2026-09-23-v5/chinese-regions/gallery-01.png)
 
-![Check pinyin with the loaded Wikipedia reference](https://ritornello.dev/media/ankiweb/2026-08-05-v3/chinese-regions/gallery-02.png)
+![Check the pinyin with the loaded East China reference](https://ritornello.dev/media/ankiweb/2026-09-23-v5/chinese-regions/gallery-02.png)
 
-[Full-resolution MP4](https://ritornello.dev/media/ankiweb/2026-08-05-v3/chinese-regions/demo.mp4)
+[Watch the short Anki review clip](https://ritornello.dev/media/ankiweb/2026-09-23-v5/chinese-regions/demo.mp4) · [Animated GIF](https://ritornello.dev/media/ankiweb/2026-09-23-v5/chinese-regions/demo.gif)
 
 GitHub: [https://github.com/ritornello-labs/chinese-regions](https://github.com/ritornello-labs/chinese-regions)
 

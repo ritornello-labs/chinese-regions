@@ -136,7 +136,7 @@ def model_css() -> str:
     radial-gradient(circle at top left, rgba(213,177,95,0.18), transparent 24%),
     radial-gradient(circle at 82% 14%, rgba(197,47,48,0.16), transparent 22%),
     radial-gradient(circle at bottom right, rgba(47,106,88,0.10), transparent 26%),
-    linear-gradient(135deg, #5d0d17 0%, #8d1424 13%, #f7eddc 13.2%, #f8efe0 68%, #ead8b7 100%);
+    linear-gradient(135deg, #fff8eb 0%, #f8efe0 68%, #ead8b7 100%);
   background-repeat:no-repeat;
   background-attachment:fixed;
   background-size:cover;
