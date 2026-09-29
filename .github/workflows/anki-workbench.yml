@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  WORKBENCH_VERSION: "0.4.0"
+  WORKBENCH_REF: "de1aa35f9510d0c78d89e915d5ddfcaa634e6343"
 
 jobs:
   deck-smoke:
@@ -17,7 +17,9 @@ jobs:
         with:
           python-version: "3.12"
       - uses: astral-sh/setup-uv@v6
+      - name: Install Socket Firewall
+        run: npm install -g sfw
       - name: Install Anki Workbench
-        run: pip install "anki-addon-workbench[gui]==${WORKBENCH_VERSION}"
+        run: sfw pip install "anki-addon-workbench[gui] @ git+https://github.com/ritornello-labs/anki-addon-workbench.git@${WORKBENCH_REF}"
       - name: Build APKG and run disposable Anki smoke
         run: make UV="uv" workbench-smoke
