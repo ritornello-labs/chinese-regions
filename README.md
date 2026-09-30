@@ -95,3 +95,5 @@ The visual direction is intentionally atlas-like rather than generic Anki:
 ## License
 
 Repository code and documentation are MIT licensed. Map assets and source facts keep their upstream licenses and attribution requirements as documented in the data manifests.
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).

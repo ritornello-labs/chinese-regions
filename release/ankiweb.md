@@ -17,3 +17,5 @@ Learn the standard PRC statistical regions of China through Hanzi, pinyin, Engli
 GitHub: [https://github.com/ritornello-labs/chinese-regions](https://github.com/ritornello-labs/chinese-regions)
 
 The deck uses crisp SVG map assets and includes cards for region names, member provinces, locator maps, and regional connections. Source data, media provenance, and the reproducible build workflow are documented in the GitHub repository.
+
+Support continued development: [ritornello.dev/support](https://ritornello.dev/support).
