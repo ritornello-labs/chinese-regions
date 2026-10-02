@@ -14,8 +14,6 @@ Learn the standard PRC statistical regions of China through Hanzi, pinyin, Engli
 
 ![Recall and reveal East China’s pinyin in real Anki](https://raw.githubusercontent.com/ritornello-labs/chinese-regions/main/docs/screenshots/2026-09-30/demo.gif)
 
-[Watch the full-resolution Anki review clip](https://ritornello.dev/media/ankiweb/2026-09-23-v5/chinese-regions/demo.mp4)
-
 GitHub: [https://github.com/ritornello-labs/chinese-regions](https://github.com/ritornello-labs/chinese-regions)
 
 The deck uses crisp SVG map assets and includes cards for region names, member provinces, locator maps, and regional connections. Source data, media provenance, and the reproducible build workflow are documented in the GitHub repository.
