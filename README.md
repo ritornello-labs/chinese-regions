@@ -7,7 +7,7 @@
 
 An Anki deck for learning the standard PRC statistical regions of China through Hanzi, pinyin, English names, member provinces, and crisp SVG map recall.
 
-[![Regions of China reveal with a loaded reference](https://ritornello.dev/media/ankiweb/2026-08-05-v3/chinese-regions/gallery-02.png)](https://ritornello.dev/media/ankiweb/2026-08-05-v3/chinese-regions/demo.mp4)
+![Regions of China recall and reveal in real Anki](https://raw.githubusercontent.com/ritornello-labs/chinese-regions/main/docs/screenshots/2026-09-30/demo.gif)
 
 ## Download
 
@@ -15,7 +15,7 @@ Install the shared deck from [AnkiWeb](https://ankiweb.net/shared/info/159990073
 
 ## Card previews
 
-The animation above shows the complete Anki reviewer. Click it for the full-resolution MP4, or [browse the stills and video together](https://ritornello.dev/#chinese-regions).
+The GIF above shows recall and reveal in the real Anki reviewer. [Explore all Ritornello decks and add-ons](https://ritornello.dev/).
 
 The deck covers:
 
