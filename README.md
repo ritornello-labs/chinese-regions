@@ -11,7 +11,7 @@ An Anki deck for learning the standard PRC statistical regions of China through 
 
 ## Download
 
-Install the shared deck from [AnkiWeb](https://ankiweb.net/shared/info/1361353897).
+Install the shared deck from [AnkiWeb](https://ankiweb.net/shared/info/1361353897), or download the `.apkg` from the [latest tagged GitHub release](https://github.com/ritornello-labs/chinese-regions/releases/latest).
 
 ## Card previews
 
