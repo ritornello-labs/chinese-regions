@@ -40,3 +40,9 @@ When adding dependencies, scaffolding a new package, or setting up a JS/Python p
 - **uv** — In `pyproject.toml`, `[tool.uv]` with `exclude-newer = "7 days"`. If you use `uv pip`, add the same under `[tool.uv.pip]`. Per-package overrides via `exclude-newer-package`. Optional machine-wide: `~/.config/uv/uv.toml` with `exclude-newer` and `[pip] exclude-newer`.
 
 After changing policy: re-resolve dependencies, commit the lockfile, and in CI prefer frozen installs (`npm ci`, `pnpm install --frozen-lockfile`, `yarn install --immutable`). If a package manager has no equivalent, state that rather than inventing unsupported configuration.
+
+## Publication safety
+
+Follow `docs/PUBLICATION_PROCESS.md`. Install the shared frozen local hooks before
+public pushes and keep the pinned quiet publication check required on main.
+Keep detailed audit findings outside Git; unsupported formats block publication.
